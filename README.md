@@ -2,7 +2,7 @@
 
 This is our team project. You can access the live website here:
 
-🔗 **[Click here to open the Live Website](PASTE_YOUR_WEBSITE_LINK_HERE)**
+🔗 [Click here to open the Live Website](https://witty-chatbot.lovable.app/)
 
 ### Project Details
 - **Project Name:** KIET Campus Assistant
