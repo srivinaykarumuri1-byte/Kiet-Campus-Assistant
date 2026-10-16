@@ -28,6 +28,5 @@ The **KIET Campus Assistant** serves as an automated digital guide for students,
 ---
 
 ## 👥 Team & Acknowledgments
-- **Project Lead / Contributor:** Sri Vinay Karumuri
+- **Project Lead:** Pulipati Sahithi
 - **Institution:** KIET Group of Institutions
-- **Mentorship:** Department Faculty & Project Evaluators
